@@ -76,7 +76,7 @@
                         <div class="row">
                             <div class="col-xs-12">
                                 <h1 class="shipping">SJD LOS CAbos international airport information</h1>
-                                <h4 class="text-center">servicing san jose del Cabo - Cabp san lucas</h4>
+                                <h4 class="text-center">servicing san jose del Cabo - Cabo san lucas</h4>
                             </div>
                         </div>
                     </div>
@@ -106,7 +106,7 @@
                                                 <a href="#"><img src="assets/images/goods-train.jpg" alt="" class="img-responsive"></a>
                                             </figure>-->
                                             <div class="slides-text">
-                                                <h4><a href="http://transbaja.com">Airport Transportation Transfers Shuttle & Taxis </a></h4>
+                                                <h4><a href="http://www.insideloscabos.com">Airport Transportation Transfers Shuttle & Taxis </a></h4>
                                                 <div>
                                                  <img src="assets/images/airport_transfers.gif" alt="" class="img-responsive" style="width: 100px;height: 100px;"> 
                                                 <p>For your own security ignore offers of transportation from solicitors in the terminals. Ignore non-uniformed persons offering to assist with baggage. Prebook your transportation in advance.</br>
