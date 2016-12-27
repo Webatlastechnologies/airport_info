@@ -1,0 +1,14 @@
+<p class="style4"><h4>REQUIREMENTS IF TRAVELING WITH PETS</h4> </p>
+      <blockquote>
+        <p class="style3">Passangers traveling with 1 or 2 pets (dogs and/or cats), you must carry with you: Veterinarians certification: Proof of vaccination. </p>
+        <p class="style3">If traveling with more than 2 pets, you must carry with you: <br>
+          Veterinarian certificate. <br>
+          Proof of vaccination updated.<br>
+          Payment's bill (form 5, SAT), with bank's stamp on it. <br>
+          Pets must travel in the documented luggage compartment.  It is recommended NOT to place pet's food inside carrying cages.</p>
+        <p class="style3"> NOTICE: For further information when traveling with other type of pets please check  SAGARPA-SENASICA , National Board of Fitozoological Inpection, located at the International Section F2, phone number: 5571-3124.<br>
+            <br>
+          Unless your animal is small enough to fit under your seat and you can bring him   or her in the cabin, the <a href="http://www.aspca.org" target="_blank">ASPCA</a> recommends pet owners to not fly their animal,"<br>
+          <br>
+          <a href="http://www.petsonthego.com/transairlineregs.html" target="_blank">More information. </a></p>
+    </blockquote>
