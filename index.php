@@ -108,7 +108,7 @@
                                             <div class="slides-text">
                                                 <h4><a href="http://www.insideloscabos.com">Airport Transportation Transfers Shuttle & Taxis </a></h4>
                                                 <div>
-                                                 <img src="assets/images/airport_transfers.gif" alt="" class="img-responsive" style="width: 100px;height: 100px;"> 
+                                                 <img src="assets\images\Airport Transportation Transfers Shuttle & Taxis.jpg" alt="" class="img-responsive" style="width: 100px;height: 100px;"> 
                                                 <p>For your own security ignore offers of transportation from solicitors in the terminals. Ignore non-uniformed persons offering to assist with baggage. Prebook your transportation in advance.</br>
                                                 </p>
                                                 </div>
@@ -124,7 +124,7 @@
                                             <div class="slides-text">
                                                 <h4><a href="?page=sjd_airport_map">Airport Information</a></h4>
                                                 <div>
-                                                 <img src="assets/images/information.gif" alt="" class="img-responsive" style="width: 100px;height: 100px;"> 
+                                                 <img src="assets\images\Airport Information.jpg" alt="" class="img-responsive" style="width: 100px;height: 100px;"> 
                                                 <p>Airport map | Terminal information | Airlines A SJD Airport Authority Information Airport phone numbers, mailing address, airport code and statistics</br>
                                                 
                                                 </p>
@@ -141,7 +141,7 @@
                                             <div class="slides-text">
                                                 <h4><a href="?page=sjd_flights">Fight Information at Cabo Airport</a></h4>
                                                 <div>
-                                                 <img src="assets/images/flight_information.gif" alt="" class="img-responsive" style="width: 100px;height: 100px;"> 
+                                                 <img src="assets\images\Fight Information at Cabo Airport.jpg" alt="" class="img-responsive" style="width: 100px;height: 100px;"> 
                                                 <p>Arrivals | Departures | Status | Delays in SJD Contact the airline webpage for more information.</br>
                                                 </p>
                                                 </div>
@@ -157,7 +157,7 @@
                                             <div class="slides-text">
                                                 <h4><a href="?page=airport_authority">SJD Airport Authority Information </a></h4>
                                                 <div>
-                                                 <img src="assets/images/gap_logo2.jpg" alt="" class="img-responsive" style="width: 100px;height: 100px;"> 
+                                                 <img src="assets\images\SJD Airport Authority Information.jpg" alt="" class="img-responsive" style="width: 100px;height: 100px;"> 
                                                 <p>Airport phone numbers, mailing address, airport code and statistic.</br>
                                                 </p>
                                                 </div>
@@ -173,7 +173,7 @@
                                             <div class="slides-text">
                                                 <h4><a href="#?page=hotels_in_san_jose_cabo">Lodging in cabo Area</a></h4>
                                                 <div>
-                                                 <img src="assets/images/cabo_hotel.gif" alt="" class="img-responsive" style="width: 100px;height: 100px;"> 
+                                                 <img src="assets\images\Lodging in cabo Area.jpg" alt="" class="img-responsive" style="width: 100px;height: 100px;"> 
                                                 <p>Hotels in San Jose del Cabo, Cabo San Lucas and Corridor area. Resorts, villas, all inclusive, vacation rentals, time share, condo rentals and more.</br>
                                                  </p>
                                                 </div>
@@ -189,7 +189,7 @@
                                             <div class="slides-text">
                                                 <h4><a href="?page=sjd_luggage">Documented luggage </a></h4>
                                                 <div>
-                                                 <img src="assets/images/carry_on.gif" alt="" class="img-responsive" style="width: 100px;height: 100px;"> 
+                                                 <img src="assets\images\Documented luggage.jpg" alt="" class="img-responsive" style="width: 100px;height: 100px;"> 
                                                 <p>Please be advised that as an exigency of the national and international Aeronautical Authorities, it is mandatory that all luggage should pass cleareance checkpoints.</br>
                                                  </p>
                                                 </div>
@@ -205,7 +205,7 @@
                                             <div class="slides-text">
                                                 <h4><a href="?page=passengers">Forbidden /Permited/ security</a></h4>
                                                 <div>
-                                                 <img src="assets/images/security.gif" alt="" class="img-responsive" style="width: 100px;height: 100px;"> 
+                                                 <img src="assets\images\Forbidden Permited security.jpg" alt="" class="img-responsive" style="width: 100px;height: 100px;"> 
                                                 <p>Guide to the requirements that are now in place as well as advice to help passengers pass through the security check as quickly as possible. What you can and can not bring. information for documentation and boarding.
                                                     .</br>
                                                  </p>
@@ -222,7 +222,7 @@
                                             <div class="slides-text">
                                                 <h4><a href="#">Conditions</a></h4>
                                                 <div>
-                                                 <img src="assets/images/red_cross.gif" alt="" class="img-responsive" style="width: 100px;height: 100px;"> 
+                                                 <img src="assets\images\Conditions.jpg" alt="" class="img-responsive" style="width: 100px;height: 100px;"> 
                                                 <p><a href="?page=sjd_condition1"> Passengers health condition </a></br><a href="?page=sjd_condition2"> Passengers under age</a></br><a href="?page=sjd_condition3"> Traveling with pets</a>
                                                 </p>
                                                 </div>
@@ -237,7 +237,7 @@
                                             <div class="slides-text">
                                                 <h4><a href="?page=sjd_customs">Custom Information</a></h4>
                                                 <div>
-                                                 <img src="assets/images/icon_customs.gif" alt="" class="img-responsive" style="width: 100px;height: 100px;"> 
+                                                 <img src="assets\images\Custom Information.jpg" alt="" class="img-responsive" style="width: 100px;height: 100px;"> 
                                                 <p>During the inbound flight, you will receive and need to fill out a customs form (Hacienda). After passing through immigration, you collect your bags and proceed to the exit. You will hand the form to the customs agent and press the button on what looks like a traffic light.
                                                 </p>
                                                 </div>
@@ -252,7 +252,7 @@
                                             <div class="slides-text">
                                                 <h4><a href="?page=sjd_airport_services">Airport Services</a></h4>
                                                 <div>
-                                                 <img src="assets/images/airport_services (1).gif" alt="" class="img-responsive" style="width: 100px;height: 100px;"> 
+                                                 <img src="assets\images\Airport Service.jpg" alt="" class="img-responsive" style="width: 100px;height: 100px;"> 
                                                 <p>Parking | Medical Service | Lost & Found | Banking & ATMS
                                                </p>
                                                 </div>
