@@ -304,3 +304,19 @@ figure {
 .dropdwon-menu:hover .drpb{
        background-color:#394650;   
        }
+
+.footer p {
+    color: #fff;
+    margin: 0;
+    padding: 10px;
+    text-align: center;
+}
+.footer a {
+    color: #fff;
+}
+@media screen and (max-width: 768px) {
+.slides-text{height: auto;}
+.slides-tab{margin-bottom: 0}
+.slides-text > div , .header-img {display: none;}
+.banner {height: 83px !important;}
+}

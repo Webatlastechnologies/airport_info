@@ -4,7 +4,6 @@ import { RouterModule, Routes } from '@angular/router';
 @Component({
   selector: 'app',
   templateUrl: 'main.html',
-  styleUrls:['../assets/css/style.css']
 })
 export class AppComponent implements OnInit { 
    ngOnInit() {
